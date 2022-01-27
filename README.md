@@ -1,5 +1,5 @@
 # heureka-greek-vases
-Repository for Harvard CS 109B Project: Identifying and Locating Objects on Ancient Greek Vases
+Repository for Harvard CS 209B Project: Identifying and Locating Objects on Ancient Greek Vases
 
 **Project Authors**: Abdulla Saif, Mark Conmy, Ibrahim Ouf, Lucas Kitzmüller<br/>
 
