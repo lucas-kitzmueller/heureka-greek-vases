@@ -3,6 +3,8 @@ Repository for Harvard CS 109B Project: Identifying and Locating Objects on Anci
 
 **Project Authors**: Abdulla Saif, Mark Conmy, Ibrahim Ouf, Lucas Kitzmüller<br/>
 
+** The full code report is available [here](https://github.com/lucas-kitzmueller/heureka-greek-vases/blob/main/CS209B%20-%20Group%205%20-%20Identifying%20and%20Locating%20Objects%20on%20Ancient%20Greek%20Vases.html).
+
 <a id="part1-1"></a>
 ### Research Question 
 
